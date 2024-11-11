@@ -1,0 +1,18 @@
+{
+    "roadmap": {
+        "identity_key": "08c4fcc5b3628de60420a07d4d895daaf88be96b7104b40c7e3c8631befa052e",
+        "wallet_key": "xXY/wJoSPVnRGoVrhv8ZQJD36H3c2PuerpOgKhlznXI="
+    },
+    "ai_bot": {
+        "identity_key": "562a37e0cc30d76034379638f2905636d17e7d432dc450a5ab811a929867c799",
+        "wallet_key": "x8uU/Nrw7j7iU+2kXcFEoLYaz8KlHAq46ELboIDvqW8="
+    },
+    "code_editor": {
+        "identity_key": "f3b6289e8a25c266ce4b3f2ed182eb218f195d2f691b0f72234b999ed178e747",
+        "wallet_key": "SOywKou20EL9NhJAWIVId6RrAbmtDV/WTp5j8LbVW+M="
+    },
+    "mock_interview": {
+        "identity_key": "ba26b5cc8b6a2859fad861a38e1ab4276e9d758dbdcc30e6419cd071501611c6",
+        "wallet_key": "78+fr+iXlEo5il/KR4I4Rsks+Az+CjbtYzznQeKDgBU="
+    }
+}

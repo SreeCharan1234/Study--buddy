@@ -1,0 +1,18 @@
+[2024-11-08 21:23:30,179] 103 streamlit_webrtc.webrtc - INFO - Track audio received
+[2024-11-08 21:23:30,179] 148 streamlit_webrtc.webrtc - INFO - Add a track <aiortc.rtcrtpreceiver.RemoteStreamTrack object at 0x000001A782819310> of kind audio to <aiortc.rtcpeerconnection.RTCPeerConnection object at 0x000001A790EE1E50>
+[2024-11-08 21:23:30,179] 103 streamlit_webrtc.webrtc - INFO - Track video received
+[2024-11-08 21:23:30,179] 148 streamlit_webrtc.webrtc - INFO - Add a track <aiortc.rtcrtpreceiver.RemoteStreamTrack object at 0x000001A790F3F050> of kind video to <aiortc.rtcpeerconnection.RTCPeerConnection object at 0x000001A790EE1E50>
+[2024-11-08 21:23:30,198] 1114 aioice.ice - INFO - Connection(0) Could not bind to 169.254.211.164 - [WinError 10049] The requested address is not valid in its context
+[2024-11-08 21:23:30,199] 1114 aioice.ice - INFO - Connection(0) Could not bind to 172.16.26.15 - [WinError 10049] The requested address is not valid in its context
+[2024-11-08 21:23:30,199] 1114 aioice.ice - INFO - Connection(0) Could not bind to 169.254.255.111 - [WinError 10049] The requested address is not valid in its context
+[2024-11-08 21:23:30,199] 1114 aioice.ice - INFO - Connection(0) Could not bind to 169.254.59.57 - [WinError 10049] The requested address is not valid in its context
+[2024-11-08 21:23:30,200] 1114 aioice.ice - INFO - Connection(0) Could not bind to 169.254.197.227 - [WinError 10049] The requested address is not valid in its context
+[2024-11-08 21:23:30,246] 1114 aioice.ice - INFO - Connection(0) Check CandidatePair(('192.168.1.56', 54140) -> ('192.168.1.56', 59714)) State.FROZEN -> State.WAITING
+[2024-11-08 21:23:30,246] 520 streamlit_webrtc.webrtc - INFO - ICE connection state is checking
+[2024-11-08 21:23:30,246] 1114 aioice.ice - INFO - Connection(0) Check CandidatePair(('192.168.1.56', 54140) -> ('192.168.1.56', 59714)) State.WAITING -> State.IN_PROGRESS
+[2024-11-08 21:23:32,747] 1114 aioice.ice - INFO - Connection(0) Check CandidatePair(('192.168.1.56', 54140) -> ('192.168.1.56', 59714)) State.IN_PROGRESS -> State.SUCCEEDED
+[2024-11-08 21:23:32,996] 1114 aioice.ice - INFO - Connection(0) ICE completed
+[2024-11-08 21:23:33,027] 520 streamlit_webrtc.webrtc - INFO - ICE connection state is completed
+[2024-11-08 21:23:54,729] 174 streamlit_webrtc.webrtc - INFO - Track audio ended
+[2024-11-08 21:23:54,732] 174 streamlit_webrtc.webrtc - INFO - Track video ended
+[2024-11-08 21:23:54,736] 520 streamlit_webrtc.webrtc - INFO - ICE connection state is closed
