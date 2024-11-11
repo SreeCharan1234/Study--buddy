@@ -13,7 +13,7 @@
   pip install -r requrnment.txt
   streamlit run knowldgeBuilder.py
 
-##Private keys using fetch ai
+## Private keys using fetch ai
 ![image](https://github.com/user-attachments/assets/f5983f9a-e887-4116-8455-bfaeae0d6f5e)
 
 ## Personalised Road Map 
